@@ -1,0 +1,10 @@
+# hosts.yaml
+---
+rt1:
+   hostname: 171.190.10.64
+   groups:
+        - iosxr
+rt2:
+   hostname: 10.30.11.170
+   groups:
+        - ios
