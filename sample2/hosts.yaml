@@ -1,0 +1,13 @@
+# hosts.yaml
+---
+rt1:
+    hostname: pavarotti
+    platform: 'iosxr'
+    username: admin
+    password: admin
+
+rt2:
+    hostname: placido
+    platform: 'ios'
+    username: admin
+    password: admin
