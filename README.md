@@ -66,6 +66,8 @@ Once you have all the required packages installed, go ahead and write the code t
 
 ### Write a few lines of code to automate your network
 
+![image](https://user-images.githubusercontent.com/10559258/124207329-207fd780-da9a-11eb-8569-5ba00b402d8a.png)
+
 #### Example 1
 
 Create a directory called inventory and in that create the inventory files `hosts.yaml`, `groups.yaml`, and `defaults.yaml`.
