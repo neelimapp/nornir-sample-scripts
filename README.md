@@ -527,11 +527,11 @@ vvvv multiple_tasks ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 ```
 Though there are 2 hosts available in the inventory, the output shows the result of executed tasks on only one host i.e. `rt1`, as we have added a filter to do so.
 
-# Conclusion
+## Conclusion
 Nornir is a python based multi-threaded network automation framework that provides a way to automate your network tasks efficiently. Being an open-sourced project written in python makes it easy for the user to debug and troubleshoot. Above all, it's time-efficient, free, and easy to use. Write simple lines of python code to execute your network tasks on a lot of your network devices quickly!! 
 
 
-# Resources
+## Resources
 
 - [Nornir Documentation](https://nornir.readthedocs.io/en/latest/)
 - [Nornir GitHub repository](https://github.com/nornir-automation/nornir)
